@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanmayNawlakhe
-- 👀 I’m interested in DSA, Web Development and Python Programming.
+- 👀 I’m interested in Web Development, DSA, ML/AI, Data Science and Python Programming.
 - 🎓College : Pune Institute of Computer Technology, Pune
 - 🖥️Degree : B.E., Information Technology (2027)
 
